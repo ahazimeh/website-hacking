@@ -1,0 +1,8 @@
+3 ways to hack a website
+    Exploit a vulnerability in the website
+    Exploit the programs installed on the computer
+        what if there is 1 of the programs installed have a buffer overflow
+        or remote execution exploit
+        what if the database program that is running the db itself had a remote root exploit
+        that allows you to gain access to the whole server including all the websites inside it
+    Target humen

@@ -1,0 +1,2 @@
+to enable virtualization go to bios
+it could be called: VT-x, AMD-v, SVM, or Vanderpool

@@ -1,0 +1,13 @@
+linux username and password: root, toor
+
+metasplit default username and password: msfadmin
+
+linux commands
+
+apt-get install terminator
+
+configuring website in metasploit
+sudo nano /var/www/multillidae/config.inc
+
+replace metasploit by
+$dbname = 'owasp10';
